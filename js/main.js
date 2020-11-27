@@ -1,4 +1,4 @@
-const inputs = document.querySelectorAll('.controls input');
+const inputs = document.querySelectorAll('.form-controls input');
 
 function handleUpdate() {
   const suffix = this.dataset.sizing || '';
